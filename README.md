@@ -4,8 +4,8 @@
 #output
 ![2022-12-14](https://user-images.githubusercontent.com/95264102/207629475-1a6ab28b-ff67-4cae-9ab7-ed9dadd3a58a.png)
 
+![2022-12-14 (2)](https://user-images.githubusercontent.com/95264102/207629694-7ee414dc-bdf1-4d5d-9acf-f97d699d6fbf.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
