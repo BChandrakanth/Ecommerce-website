@@ -1,0 +1,12 @@
+#boxE{
+    margin: 0 auto;
+}
+.hoverE{
+    width: 8em;
+    height: 8em;
+   
+}
+#backE{
+    background-color: white;
+    border-radius: 1em;
+}

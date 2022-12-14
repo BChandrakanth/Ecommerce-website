@@ -1,0 +1,32 @@
+.itemPro{
+    width: 15em;
+    margin: 2em;
+    height: 15em;
+}
+.bg{
+    background-color: white;
+    border-radius: 1em;
+    box-shadow: 0px 5px 10px#cccaca;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 5em;
+}
+.font{
+    font-family:'Times New Roman', Times, serif;
+}
+@media (max-width:600px) {
+    .itemPro{
+        width: 10em;
+        height: 10em;
+    }
+    .bg{
+        width: 80%;
+    }
+}
+ol{
+    list-style: circle;
+}
+.textMar{
+    margin-left: 2em;
+}

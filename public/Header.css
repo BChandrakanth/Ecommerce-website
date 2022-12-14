@@ -1,0 +1,31 @@
+.header{
+    width: 95vw;
+    margin: 0 auto;
+}
+.fontStyle img, svg {
+    vertical-align: middle;
+    width: 4.5em;
+}
+.sign{
+    margin-right: 0px;
+}
+.fontStyle{
+    width: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.hover:hover{
+border: 0.5px solid rgba(57, 56, 56, 0.673);
+color: white;
+}
+.cart:hover{
+    color: black;
+}
+@media (max-width: 600px) {
+    .hover1{
+        display: none;
+    }
+    .hover{
+        margin-right: auto;
+    }
+}
